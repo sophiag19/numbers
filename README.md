@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Sophia Guarnotta
+2. Student ID: 2369941
+3. Email: guarnotta@chapman.edu
+4. Class: CPSC 298-03
 5. Assignment: numbers 
 
 ## Application Purpose
